@@ -2,7 +2,10 @@
 
 ---
 
-# svelte app
+# svelte app plus
+# svelte3TailwindRU
+
+clone Svelte 3 tailwind css project above or create a standard Svelte 3 project below.
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
@@ -91,4 +94,4 @@ Then, from within your project folder:
 npm run build
 surge public my-project.surge.sh
 ```
-# svelte3TailwindRU
+
